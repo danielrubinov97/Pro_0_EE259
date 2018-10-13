@@ -1,4 +1,4 @@
-#Pro_0 OUTLINE
+#Pro_0 OUTLINE FROM EE259 COURSE
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 \_                                                                    \_
 \_   THE CITY COLLEGE OF NEW YORK, ELECTRICAL ENGINEERING DEPARTMENT  \_
