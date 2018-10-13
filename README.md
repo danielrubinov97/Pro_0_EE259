@@ -1,4 +1,5 @@
 #Pro_0 OUTLINE FROM EE259 COURSE
+My Solution: Daniel Rubinov
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 \_                                                                    \_
 \_   THE CITY COLLEGE OF NEW YORK, ELECTRICAL ENGINEERING DEPARTMENT  \_
