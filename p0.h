@@ -40,7 +40,7 @@ STUDENT_ID::STUDENT_ID(int x)
 void
 STUDENT_ID::LIST_ID(int x)
 {
-	int i;
+	int i; //This is a comment
 	output_file << "+ P0 START +" << endl;
 	output_file << "+ P0 OUTPUT FROM LIST_ID METHOD:" << endl;
 	if (x == 1){
